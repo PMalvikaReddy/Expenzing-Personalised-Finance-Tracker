@@ -1,0 +1,36 @@
+.aboutpage{
+    height:calc(100vh - 50px);
+    background-color: rgb(230, 228, 226);
+    /* background-color: #1b1b1e;
+    background-image:
+    radial-gradient(at 0% 0%, hsla(253, 16%, 7%, 1) 0, transparent 50%),
+    radial-gradient(at 50% 0%, hsla(225, 39%, 30%, 1) 0, transparent 50%),
+    radial-gradient(at 100% 0%, hsla(339, 49%, 30%, 1) 0, transparent 50%); */
+    display: flex;
+    flex-direction: row;
+}
+.imageabout{
+    border-radius: 40px;
+
+}
+.aboutblock{
+    margin-top: 50px;
+    margin-left: 50px;
+    display: flex;
+    flex-direction: column;
+    width:450px;
+    align-items: right;
+
+}
+.aboutheading{
+    color:rgb(11, 107, 107);
+    font-size: 20px;
+    margin-bottom: 10px;
+
+}
+.aboutcontent{
+    color:rgb(56, 49, 49);
+    line-height: 6mm;
+    font-size: 14px;
+    margin-bottom: 30px;
+}
