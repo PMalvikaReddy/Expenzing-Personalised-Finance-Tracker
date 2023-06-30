@@ -13,7 +13,7 @@ The project is a personalized expense tracker web application that would help th
 The mini project is being implemented using ReactJs which is a open-source JavaScript library used for building user interfaces.   
 React uses a component-based architecture. It allows developers to create reusable UI components that can be easily combined to build complex user interfaces. This makes it easier to manage and maintain large codebases, as well as to update and modify the user interface without having to change the underlying code.
 
-The project uses React hooks that provide a way to reuse stateful logic across components, and they can make functional components more powerful and easier to understand.  These include useState(), useEffect(), useContext(). 
+The project uses React hooks that provide a way to reuse stateful logic across components, and they can make functional components more powerful and easier to understand.  These include useState(), useEffect(), useContext() . 
 
 ## Output :
 1. Main page
